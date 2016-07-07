@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Test from AppStore]]></title>
+        <description><![CDATA[Test from AppStore]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jul 2016 12:34:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Coos on Coos]]></title>
+            <description><![CDATA[<article><h1>Coos on Coos</h1><p>Not your regular food fare. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c0abcacc74890208eb029a1f8cc7a5f0/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F752f983d-1f89-40f9-96e7-0b0193b86546.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/752f983d-1f89-40f9-96e7-0b0193b86546.jpg</link>
+            <guid isPermaLink="false">a58cfe6f-447d-4e5f-bd30-a4067021d345</guid>
+            <pubDate>Thu, 07 Jul 2016 12:34:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
